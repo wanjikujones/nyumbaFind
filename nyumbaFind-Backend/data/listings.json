@@ -1,0 +1,30 @@
+[
+  {
+    "id": "l_1790329223577_0leale",
+    "images": [
+      "data:image/png;base64,AAAA",
+      "data:image/png;base64,BBBB"
+    ],
+    "price": 15000,
+    "size": "1 Bedroom",
+    "constituency": "Westlands",
+    "ward": "Kitisuru",
+    "landmark": "Near the stage",
+    "phoneWhatsApp": "254712345678",
+    "createdAt": 1790329223577
+  },
+  {
+    "id": "l_1790329088252_fx3m2b",
+    "images": [
+      "data:image/png;base64,AAAA",
+      "data:image/png;base64,BBBB"
+    ],
+    "price": 15000,
+    "size": "1 Bedroom",
+    "constituency": "Westlands",
+    "ward": "Kitisuru",
+    "landmark": "Near the stage",
+    "phoneWhatsApp": "254712345678",
+    "createdAt": 1790329088252
+  }
+]
